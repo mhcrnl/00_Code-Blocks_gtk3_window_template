@@ -1,5 +1,12 @@
 # Code::Blocks and GTK+3 template window
 
+## Install:
+    git clone https://github.com/mhcrnl/00_Code-Blocks_gtk3_window_template.git
+    
+open with Code::Blocks.
+    
+## Template:
+
 ```
 /***************************************************************
     FILE: main.c
