@@ -2,12 +2,14 @@
 
 ## Install:
     git clone https://github.com/mhcrnl/00_Code-Blocks_gtk3_window_template.git
-    
-open with Code::Blocks.
+    cd 00_Code-Blocks_gtk3_window_template
+	./run_program.sh
+
+ **or** open with Code::Blocks.
     
 ## Template:
 
-```
+```C
 /***************************************************************
     FILE: main.c
     COMPILE:
