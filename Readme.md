@@ -1,3 +1,6 @@
+# Code::Blocks and GTK+3 template window
+
+```
 /***************************************************************
     FILE: main.c
     COMPILE:
@@ -30,3 +33,4 @@ int main (int argc, char **argv)
 
     return status;
 }
+```
